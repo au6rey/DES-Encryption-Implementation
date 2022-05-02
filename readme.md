@@ -1,5 +1,5 @@
 
-**DES Encryption Implementation**
+# DES Encryption Implementation
 
 **Running Instructions**
 1. Install the latest version of Node from [here](https://nodejs.dev/download/).
